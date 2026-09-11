@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Antonio Vinicius
 
-<!--
-**vinisouxxz/vinisouxxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Atualmente estudando desenvolvimento web e programação  
+🚀 Em busca da minha primeira oportunidade de estágio em Desenvolvimento
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Python
+- C
+- SQL
+- Git e GitHub
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Estruturas de Dados
+- Javascript
+- Git e GitHub
+
+## 🚀 Projetos
+
+🎫 **Sistema de Senhas em C**  
+Sistema simples utilizando o conceito de filas para organizar e atender senhas em ordem.
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, criar novos projetos e conquistar minha primeira oportunidade na área de tecnologia.
